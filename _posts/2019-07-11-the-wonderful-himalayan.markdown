@@ -6,10 +6,15 @@ date: 2019-07-11 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
-你好，旅程, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+暑假里，妈妈带着我去了黄山游玩，第一天到黄山的时候，天上下着大雨，原本计划着下午去漂流，结果导游联系了景区的工作人员，说是原本漂流的小溪现在已经成了一条湍急的大河，于是我心心念想的漂流就泡汤了。
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+虽然完不成漂流了，在酒店里玩一玩水世界也不错，我们住的酒店那是非常的高大上，依山而建，酒店特意在山上建了一座40米高的大楼，那是专门给游客们准备的一个水上乐园，里面的花样可不少，顶楼还有一个半露天泳池，环形的。我突然觉得不去漂流也很不错。
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+游泳游累了，就到6楼去泡了一个温泉，这个温泉可厉害了，是山上天然的温泉水，还可以直接饮用，不过没人敢喝这“洗澡水”。在水上世界玩了大半天了，我们都累的不行，在酒店负一楼吃了一顿大餐，我们美美的睡上一觉。
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+第二天。这天阳光明媚，天气非常热，早上我们先去了翡翠谷游玩，翡翠谷又叫“情人谷”，是著名的电影《卧虎藏龙》的拍摄地，到了那里，我才知道为什么那里叫翡翠谷，翡翠谷之中的溪流不断，越往深处，水潭就越大，越深，在太阳的照射下，一个个水潭就像大翡翠一样闪闪发光，一眼可以看到6米深的池底，后来导游又介绍说这些水潭和上面的瀑布是黄山附近的饮用水水源。
+
+下午，我们顶着炎炎烈日，来到了夹溪河漂流，这里是黄山众多漂流处中最好玩的一个漂流了，坐上只能容纳3个人的小艇，我满怀激动与期待，十分钟以后，我的激动被一股清凉的溪水给浇灭了，导游怎么就没说漂流的时候要小心瀑布呢？原本我还高兴的在玩水的时候，突然一下子，小艇从一个不是很高的小瀑布上滑了下去，我被灌了满满一口水，而且还咽了下去。在众多次被“浇水”之后，终于结束了这冰冰凉的漂流。
+    就这样，我的第一次黄山之旅结束了。
+
+> 我的黄山之旅
