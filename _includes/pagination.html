@@ -3,13 +3,13 @@
   {% if paginator.previous_page %}
 
     {% if paginator.previous_page == 1 %}
-      <a href="/">Prev</a>
+      <a href="/">上一页</a>
     {% else %}
-      <a href="/page{{ paginator.previous_page }}">Prev</a>
+      <a href="/page{{ paginator.previous_page }}">上一页</a>
     {% endif %}
 
   {% else %}
-    <span class="disabled">Prev</span>
+    <span class="disabled">上一页</span>
   {% endif %}
 
   {% if paginator.page == 1 %}
@@ -28,8 +28,8 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}">Next</a>
+    <a href="/page{{ paginator.next_page }}">下一页</a>
   {% else %}
-    <span class="disabled">Next</span>
+    <span class="disabled">下一页</span>
   {% endif %}
 </nav> <!-- End Section Pagination -->
